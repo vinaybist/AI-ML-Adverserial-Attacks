@@ -11,6 +11,6 @@ In this notebook we will create a Image classifier and later try to perturb (mod
 
 Model is deployed as tensorflow js
 
-https://vinaybist.github.io/AI-ML-Adverserial-Attacks
+https://vinaybist.github.io/ai-ml-adverserial-attacks
 
-https://vinaybist.github.io/AI-ML-Adverserial-Attacks
+https://vinaybist.github.io/ai-ml-adverserial-attacks
